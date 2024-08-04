@@ -21,7 +21,7 @@ Comic-Style Graphic:
 | 2 | + |
 | GND | other |
 
-<img src="Day12-Can_You_Hear_Us/Day-12/Day-12.png" width="350">
+<img src="/Day12-Can_You_Hear_Us/Day-12/Day-12.png" width="350">
 
 ### Installation
 No libraries or includes required.
