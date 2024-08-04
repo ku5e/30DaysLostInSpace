@@ -238,7 +238,7 @@ void loop() {
 | 2 | + |
 | GND | other |
 
-<img src="DayXX_bb.png" width="350">
+<img src="Day12_bb.png" width="350">
 
 ### Installation
 No libraries or includes required.
